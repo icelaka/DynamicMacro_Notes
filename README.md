@@ -1,2 +1,2 @@
 # DynamicMacro_Notes
-This is the repo for class Dynamic Macroeconomics
+This is the repo for Dynamic Macroeconomics Notes
