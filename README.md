@@ -3,6 +3,7 @@
 ## Baseline model
 
 The household's problem is
+
  $$\max_{\{c_t\}^{\infty}_{t=0}, \{a_{t+1}\}^{\infty}_{t = 0}} \mathbb{E}_0 \sum_{t=0}^\infty \beta^t \frac{c_t^{1-\sigma}}{1-\sigma}$$
 
  $$ \textrm{s.t.}\;c_t +a_{t+1} =(1+r)a_t +wl_t e^{z_t } ~, $$
