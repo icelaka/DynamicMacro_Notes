@@ -3,8 +3,7 @@
 ## Baseline model
 
 The household's problem is
-  ![equation](https://latex.codecogs.com/png.latex?%5Cmax_%7B%5C%7B%20c_t%20%5C%7D_%7Bt%3D0%7D%5E%7B%5Cinfty%7D%2C%20%5C%7B%20a_%7Bt%2B1%7D%20%5C%7D_%7Bt%3D0%7D%5E%7B%5Cinfty%7D%20%7D%20%5Cmathbb%7BE%7D_0%20%5Csum_%7Bt%3D0%7D%5E%7B%5Cinfty%7D%20%5Cbeta%5Et%20%5Cfrac%7Bc_t%5E%7B1-%5Csigma%7D%7D%7B1-%5Csigma%7D)
- <!-- $$\underset{\lbrace c_t \rbrace_{t=0}^{\infty } ,\lbrace a_{t+1} \rbrace_{t=0}^{\infty } }{\max \;} {\mathbb{E}}_0 \sum_{t=0}^{\infty } \beta^t \frac{c_t^{1-\sigma } }{1-\sigma }\;\textrm{,}$$ -->
+ $$\max_{\{c_t\}^{\infty}_{t=0}, \{a_{t+1}\}^{\infty}_{t = 0}} \mathbb{E}_0 \sum_{t=0}^\infty \beta^t \frac{c_t^{1-\sigma}}{1-\sigma}$$
 
  $$ \textrm{s.t.}\;c_t +a_{t+1} =(1+r)a_t +wl_t e^{z_t } ~, $$
 
