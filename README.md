@@ -44,9 +44,9 @@ Then, by introducing productive idea, households now have an additional state va
 
 Households can invest in idea $i_t$ at a cost, which includes:
 
-- Linear investment cost ($kappa_0 * i_t$)
-- Quadratic investment cost ($kappa_1 * i_t^2$)
-- Maintainance cost (proportional ot the idea quality $kappa_2 * q_t$)
+- Linear investment cost ($\kappa_0 * i_t$)
+- Quadratic investment cost ($\kappa_1 * i_t^2$)
+- Maintainance cost (proportional ot the idea quality $\kappa_2 * q_t$)
 
 Ideas evolve according to the following process:
 
